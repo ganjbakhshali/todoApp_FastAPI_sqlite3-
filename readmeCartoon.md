@@ -41,7 +41,9 @@ The API applies image processing techniques to simplify the colors and edges in 
 
 Examples
 Original Image:
+
 ![1](./sajjad.jpg)
 
 Cartoony Image:
+
 ![1](./cartoon.png)
